@@ -1,0 +1,12 @@
+*.STEP filter=lfs diff=lfs merge=lfs -text
+*.wbpj filter=lfs diff=lfs merge=lfs -text
+*.project_cache filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.acph5 filter=lfs diff=lfs merge=lfs -text
+*.cdb filter=lfs diff=lfs merge=lfs -text
+*.apdl filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
+*.engd filter=lfs diff=lfs merge=lfs -text
+*.wbdp filter=lfs diff=lfs merge=lfs -text
+*.mechdb filter=lfs diff=lfs merge=lfs -text
+*.wbjn filter=lfs diff=lfs merge=lfs -text
